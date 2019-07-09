@@ -4,7 +4,6 @@
 
     $textTitle =  "Junta";
     $textDescription = "Reunion hoy a las 3:00 pm.";
-    //el topico donde engloba a vendedores y cobradores es 'userpp'
     $toTopic = "/topics/userpp";
     $to="userToken";
 

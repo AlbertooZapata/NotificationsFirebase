@@ -4,7 +4,7 @@
 
     $textTitle =  "Junta";
     $textDescription = "Reunion hoy a las 3:00 pm.";
-    $toTopic = "/topics/userpp";
+    $toTopic = "/topics/users";
     $to="userToken";
 
     $message = array(

@@ -14,7 +14,8 @@
     $url = 'https://fcm.googleapis.com/fcm/send';
     $fields = array(
         "to" => $toTopic,
-        "data" => $message
+        "data" => $message, 
+        "priority" => 10
     );
 
 
